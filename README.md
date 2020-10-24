@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Marçal Junior, and Welcome to My Repository! 👋:shipit:  
 
-<!--
-**marssaljr/marssaljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 About me  
+👤 17 years old  
+☕ Student of FullStack Development  
+🏠 Living in Pouso Alegre MG, Brazil  
 
-Here are some ideas to get you started:
+## 🔗 Some Links :octocat:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me?  
+
+[🎮 Discord](dsc.bio/marssaljr)  
+[🐦 Twitter](https://twitter.com/marssaljr)  
+[📸 Instagram](https://www.instagram.com/marssaljr/)  
+[💼 LinkedIn](https://www.linkedin.com/in/mar%C3%A7al-junior-2054b31a5/)  
+[✈️ Telegram](https://t.me/marssaljr)
