@@ -13,5 +13,5 @@
 [🐦 Twitter](https://twitter.com/marssaljr)  
 [📸 Instagram](https://www.instagram.com/marssaljr/)  
 [💼 LinkedIn](https://www.linkedin.com/in/mar%C3%A7al-junior-2054b31a5/)  
-[✈️ Telegram](https://t.me/marssaljr)
-[:books: Medium](https://medium.com/@marssaljr) 
+[✈️ Telegram](https://t.me/marssaljr)  
+[:books: Medium](https://medium.com/@marssaljr)  
