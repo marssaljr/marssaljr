@@ -12,6 +12,6 @@
 [🎮 Discord](https://dsc.bio/marssaljr)  
 [🐦 Twitter](https://twitter.com/marssaljr)  
 [📸 Instagram](https://www.instagram.com/marssaljr/)  
-[💼 LinkedIn](https://www.linkedin.com/in/mar%C3%A7al-junior-2054b31a5/)  
+[💼 LinkedIn](www.linkedin.com/in/marssaljr)  
 [✈️ Telegram](https://t.me/marssaljr)  
 [:books: Medium](https://medium.com/@marssaljr)  
