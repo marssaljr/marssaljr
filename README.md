@@ -13,6 +13,6 @@
 [🎮 Discord](https://dsc.bio/marssaljr)  
 [![Twitter Badge](https://twitter.com/marssaljr)  
 [📸 Instagram](https://instagram.com/marssaljr/)  
-[![Linkedin Badge](https://img.shields.io/badge/-Luke%20Morales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr))](https://www.linkedin.com/in/marssaljr))
+[![Linkedin Badge](https://img.shields.io/badge/-Marçal%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr))](https://www.linkedin.com/in/marssaljr))
 [✈️ Telegram](https://t.me/marssaljr)  
 [:books: Medium](https://medium.com/@marssaljr)  
