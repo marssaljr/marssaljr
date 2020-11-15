@@ -8,10 +8,11 @@
 ## 🔗 Some Links :octocat:  
 
 ### 📫 How to reach me?  
+### Hi there 👋
 
 [🎮 Discord](https://dsc.bio/marssaljr)  
-[🐦 Twitter](https://twitter.com/marssaljr)  
+[![Twitter Badge](https://twitter.com/marssaljr)  
 [📸 Instagram](https://instagram.com/marssaljr/)  
-[💼 LinkedIn](https://linkedin.com/in/marssaljr)  
+[![Linkedin Badge](https://linkedin.com/in/marssaljr)  
 [✈️ Telegram](https://t.me/marssaljr)  
 [:books: Medium](https://medium.com/@marssaljr)  
