@@ -13,6 +13,6 @@
 [🎮 Discord](https://dsc.bio/marssaljr)  
 [![Twitter Badge](https://twitter.com/marssaljr)  
 [![Instagram](https://img.shields.io/badge/-@marssaljr-4c5fd7?style=flat-square&labelColor=c32aa3&logo=instagram&logoColor=white&link=https://www.instagram.com/marssaljr/)](https://instagram.com/marssaljr/)  
-[![Linkedin](https://img.shields.io/badge/-Marçal%20Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
-[✈️ Telegram](https://t.me/marssaljr)  
+[![Linkedin](https://img.shields.io/badge/-marssaljr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
+[![Telegram](https://img.shields.io/badge/-marssaljr-6cc1e3?style=flat-square&labelColor=6cc1e3&logo=telegram&logoColor=white&link=https://t.me/marssaljr)](https://t.me/marssaljr)  
 [![Medium](https://img.shields.io/badge/-@marssaljr-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@marssaljr)](https://medium.com/@marssaljr)  
