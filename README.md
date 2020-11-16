@@ -1,11 +1,11 @@
 ### Hi there, I'm Marçal Junior, and Welcome to My Repository! 👋:shipit:  
 
-## 💬 About me  
+## About me 💬
 👤 17 years old  
 ☕ Student of FullStack Development  
 🏠 Living in Pouso Alegre MG, Brazil  
 
-## 🔗 Some Links :octocat:  
+## Some Links :octocat:  
 
 [![Discord](https://img.shields.io/badge/-marssaljr-36393f?style=flat-square&labelColor=2f3136&logo=discord&logoColor=white&link=https://discord.bio/p/marssaljr)](https://dsc.bio/marssaljr)
 [![Twitter](https://img.shields.io/badge/-marssaljr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marssaljr)](https://twitter.com/marssaljr)
