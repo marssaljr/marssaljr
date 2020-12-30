@@ -9,4 +9,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
 [![Telegram](https://img.shields.io/badge/-Telegram-6cc1e3?style=flat-square&labelColor=6cc1e3&logo=telegram&logoColor=white&link=https://t.me/marssaljr)](https://t.me/marssaljr)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-128C7E?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white&link=wa.link/a8mecg)](wa.link/a8mecg)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-128C7E?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white&link=wa.link/a8mecg)](https://wa.link/a8mecg)
