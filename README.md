@@ -1,7 +1,7 @@
 ### Hi there, I'm Marçal Junior, and Welcome to My Repository! 👋:shipit:  
 
 ## About me 💬
-👤 18 years old  
+:octocat: 18 years old  
 ☕ Back-end Developer 
 🏠 Living in Pouso Alegre MG, Brazil  
 
