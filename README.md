@@ -2,7 +2,7 @@
 
 ## About me 💬
 👤 17 years old  
-☕ Student of FullStack Development  
+☕ Back-end Developer 
 🏠 Living in Pouso Alegre MG, Brazil  
 
 ## Some Links :octocat:  
