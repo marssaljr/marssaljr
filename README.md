@@ -6,8 +6,8 @@
 🏠 Living in Pouso Alegre MG, Brazil  
 
 ## Some graphics
-![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars)
-
+![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars&count_private=true)
+[![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)
 ## Some Links :octocat:  
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
