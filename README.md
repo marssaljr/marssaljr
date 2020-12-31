@@ -5,6 +5,9 @@
 ☕ Back-end Developer   
 🏠 Living in Pouso Alegre MG, Brazil  
 
+## Some graphics
+![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars)
+
 ## Some Links :octocat:  
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
