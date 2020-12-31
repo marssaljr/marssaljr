@@ -1,4 +1,4 @@
-### Hello there, I'm Marçal Junior, and Welcome to My Repository! 👋:shipit:  
+### Hi, I'm Marçal Junior and Welcome to My Repository! 👋:shipit:  
 
 ## How About me 💬
 👤 18 years old  
