@@ -1,11 +1,11 @@
-### Ola there, I'm Marçal Junior, and Welcome to My Repository! 👋:shipit:  
+### Hello there, I'm Marçal Junior, and Welcome to My Repository! 👋:shipit:  
 
-## About me 💬
+## How About me 💬
 👤 18 years old  
 ☕ Back-end Developer   
 🏠 Living in Pouso Alegre MG, Brazil  
 
-## Some graphics
+## Some Graphics
 ![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars&count_private=true&show_icons=true)  
 [![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)
 ## Some Links :octocat:  
