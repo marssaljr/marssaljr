@@ -10,7 +10,7 @@
 [![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka-->  
 name: Waka Readme
 
 on:
@@ -28,7 +28,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: aa
           SHOW_COMMIT
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-->  
 ## Some Links :octocat:  
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
