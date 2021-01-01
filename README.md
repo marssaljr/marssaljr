@@ -26,7 +26,7 @@ jobs:
       - uses: marssaljr
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: e4d5ecdc3f23c9931cd88bb09bb8ce948b07bf45
+          GH_TOKEN: aa
           SHOW_COMMIT
 <!--END_SECTION:waka-->
 ## Some Links :octocat:  
