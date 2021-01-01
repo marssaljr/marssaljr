@@ -7,7 +7,28 @@
 
 ## Some Graphics
 ![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars&count_private=true&show_icons=true)  
-[![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr/weatherapi)
+[![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)
+
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_COMMIT
+<!--END_SECTION:waka-->
 ## Some Links :octocat:  
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
