@@ -23,7 +23,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: marssaljr
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: <marssaljr/marssaljr> # optional, By default, it will automatically use the repository who's executing the workflow.
