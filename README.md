@@ -7,7 +7,7 @@
 
 ## Some Graphics
 ![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars&count_private=true&show_icons=true)  
-[![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)
+[![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&count_private=true)](https://github.com/marssaljr)
 ## Some Links :octocat:  
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
