@@ -9,6 +9,10 @@
 ![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars&count_private=true&show_icons=true)  
 [![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)  
 
+## PC Config  
+HP 20 all in one  
+AMD E1-6010 - 1.35ghz - 4G - 256mb GPU  
+
 ## Some Links :octocat:  
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
