@@ -1,9 +1,9 @@
 ### Hi, I'm Marçal Junior and Welcome to my... Repository/Portfolio! 👋:shipit:  
 
 ## 💬 How About me 
-👤 18 years old  
-☕ Back-end Developer   
-🏠 Living in Pouso Alegre MG, Brazil  
+👤  18 years old  
+☕  Back-end Developer   
+🏠  Living in Pouso Alegre MG, Brazil  
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Technologies</h2> 
 <table>
@@ -38,8 +38,8 @@
 </table>
 
 ## :computer: PC Config  
-:sauropod: HP 20 all in one  
-:sauropod: AMD E1-6010 - 1.35Ghz - 4G RAM - 120G SSD - 256MB GPU
+:sauropod:  HP 20 all in one  
+:fox_face:  AMD E1-6010 - 1.35Ghz - 4G RAM - 120G SSD - 256MB GPU
 
 ## :link: Some Links  
 
