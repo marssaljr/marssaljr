@@ -1,6 +1,6 @@
 ### Hi, I'm Marçal Junior and Welcome to my... Repository/Portfolio! 👋:shipit:  
 
-## How About me 💬
+## 💬 How About me 
 👤 18 years old  
 ☕ Back-end Developer   
 🏠 Living in Pouso Alegre MG, Brazil  
@@ -41,7 +41,7 @@
 HP 20 all in one  
 AMD E1-6010 - 1.35Ghz - 4G RAM - 120G SSD - 256MB GPU
 
-## Some Links :octocat:  
+## :link: Some Links  
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr)](https://www.linkedin.com/in/marssaljr)
 [![Telegram](https://img.shields.io/badge/-Telegram-6cc1e3?style=flat-square&labelColor=6cc1e3&logo=telegram&logoColor=white&link=https://t.me/marssaljr)](https://t.me/marssaljr)
