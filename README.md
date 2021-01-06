@@ -5,7 +5,7 @@
 ☕ Back-end Developer   
 🏠 Living in Pouso Alegre MG, Brazil  
 
-## Technologies
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Technologies</h2> 
 <table>
   <tr>
     <td align="center">
