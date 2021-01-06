@@ -5,7 +5,7 @@
 ☕ Back-end Developer   
 🏠 Living in Pouso Alegre MG, Brazil  
 
-# Languages and Frameworks
+## Technologies
 <table>
   <tr>
     <td align="center">
@@ -20,7 +20,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/microsoft/TypeScript">
-        <img src="https://s3.amazonaws.com%2Fionic-marketplace/typescript-starter/icon.png&f=1&nofb=1" width="50" />
+        <img src="https://s3.amazonaws.com/ionic-marketplace/typescript-starter/icon.png" width="50" />
       </a>
     </td>
   </tr>
