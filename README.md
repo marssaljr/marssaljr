@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-## PC Config  
+## :computer: PC Config  
 HP 20 all in one  
 AMD E1-6010 - 1.35Ghz - 4G RAM - 120G SSD - 256MB GPU
 
