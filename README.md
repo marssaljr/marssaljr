@@ -5,6 +5,38 @@
 ☕ Back-end Developer   
 🏠 Living in Pouso Alegre MG, Brazil  
 
+# Languages and Frameworks
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nodejs">
+        <img src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/expressjs">
+        <img src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/microsoft/TypeScript">
+        <img src="https://s3.amazonaws.com%2Fionic-marketplace/typescript-starter/icon.png&f=1&nofb=1" width="50" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      NodeJS
+    </td>
+    <td align="center">
+      Express
+    </td>
+    <td align="center">
+      Typescript
+    </td>
+  </tr>
+</table>
+
 ## Some Graphics
 ![status irado](https://github-readme-stats.vercel.app/api?username=marssaljr&hide=stars&count_private=true&show_icons=true)  
 [![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)  
