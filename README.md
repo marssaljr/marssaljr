@@ -32,7 +32,7 @@
       Express
     </td>
     <td align="center">
-      Typescript
+      TypeScript
     </td>
   </tr>
 </table>
