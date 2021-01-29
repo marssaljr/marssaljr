@@ -1,6 +1,6 @@
-### Hi, My name is Marçal Junior and welcome to my... Repository/Portfolio! 👋:shipit:  
+## Hi, My name is Marçal Junior and welcome to my... Repository/Portfolio! 👋:shipit:  
 
-## 💬 How About me 
+### 💬 How About me 
 👤  18 years old  
 ☕  Developer   
 🏠  Living in Pouso Alegre MG, Brazil  
