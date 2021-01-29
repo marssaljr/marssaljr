@@ -2,7 +2,7 @@
 
 ## 💬 How About me 
 👤  18 years old  
-☕  Back-end Developer   
+☕  Developer   
 🏠  Living in Pouso Alegre MG, Brazil  
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> In love with</h2> 
