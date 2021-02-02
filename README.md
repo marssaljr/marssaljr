@@ -10,17 +10,17 @@
   <tr>
     <td align="center">
       <a href="https://github.com/mongodb">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https://vectorified.com/images/mongodb-icon-6.png&f=1&nofb=1" width="50" />
+        <img src="https://avatars.githubusercontent.com/u/45120?s=200&v=4" width="50" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/expressjs">
-        <img src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" width="50" />
+        <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" width="50" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/facebook/react">
-        <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png&f=1&nofb=1" width="50" />
+        <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" width="50" />
       </a>
     </td>
     <td align="center">
