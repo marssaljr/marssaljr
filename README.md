@@ -9,13 +9,23 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/nodejs">
-        <img src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width="50" />
+      <a href="https://github.com/mongodb">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https://vectorified.com/images/mongodb-icon-6.png&f=1&nofb=1" width="50" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/expressjs">
         <img src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/facebook/react">
+        <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png&f=1&nofb=1" width="50" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nodejs">
+        <img src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width="50" />
       </a>
     </td>
     <td align="center">
@@ -26,13 +36,19 @@
   </tr>
   <tr>
     <td align="center">
-      NodeJS
+      M
     </td>
     <td align="center">
-      Express
+      E
     </td>
     <td align="center">
-      TypeScript
+      R
+    </td>
+    <td align="center">
+      N
+    </td>
+    <td align="center">
+      TS
     </td>
   </tr>
 </table>
