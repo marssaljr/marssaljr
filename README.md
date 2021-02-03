@@ -48,7 +48,7 @@
       N
     </td>
     <td align="center">
-      .ts
+      .TS
     </td>
   </tr>
 </table>
