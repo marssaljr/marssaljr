@@ -2,7 +2,7 @@
 
 ### 💬 How About me 
 👤  18 years old  
-☕  Developer   
+☕  Web Developer   
 🏠  Living in Pouso Alegre MG, Brazil  
 _________
 <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="50"/>
