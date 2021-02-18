@@ -5,7 +5,7 @@
 ☕  Web Developer   
 🏠  Living in Pouso Alegre MG, Brazil  
 _________
-<img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="50"><p>Do you want some tea or cofee?<p></img>  
+<img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="50" style="color:red"> Do you want some tea or cofee?</img>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact)](https://github.com/marssaljr)  
 
