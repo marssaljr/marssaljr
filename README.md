@@ -19,9 +19,7 @@
   <img align="left" alt="Marssaljr | Linekdin" width="21px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/linkedin.svg" />
 </a>
 
-<br />
-<br />
-
+________
 
 ### 💬 How About me 
 - 👤  18 years old  
@@ -37,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>   
 
-_________
+________
 <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="50"><strong> Do you want some tea or cofee?</strong></img>  
 
 <a href="https://github.com/marssaljr#repositories">
