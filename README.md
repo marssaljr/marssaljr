@@ -27,7 +27,7 @@ ________
 - ☕  Self-Taught Web Developer  
 - 🏠  Living in Pouso Alegre MG, Brazil  
 - 🔭  I’m current looking for Job  
-- 💬 Ask me about anything [here](https://github.com/marrssaljr/marssaljr/issues)  
+- 💬 Ask me about anything [here](https://github.com/marssaljr/marssaljr/issues/new)  
 
 **Languages and Tools:**  
 
