@@ -22,11 +22,10 @@
 <br />
 <br />
 
-Hi, I'm Marçal Junior, a self-taught web developer from Pouso Alegre at Brazil.  
 
 ### 💬 How About me 
 - 👤  18 years old  
-- ☕  Web Developer  
+- ☕  Self-Taught Web Developer  
 - 🏠  Living in Pouso Alegre MG, Brazil  
 - 🔭  I’m current looking for Job  
 - 💬 Ask me about anything [here](https://github.com/marrssaljr/marssaljr/issues)  
