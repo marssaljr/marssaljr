@@ -26,7 +26,7 @@ ________
 - 👤  18 years old  
 - ☕  Self-Taught Web Developer  
 - 🏠  Living in Pouso Alegre MG, Brazil  
-- 🔭  I’m current looking for Job  
+- 🔭  Currently looking for a Job  
 - 💬 Ask me about anything [here](https://github.com/marssaljr/marssaljr/issues/new)  
 
 **Languages and Tools:**  
