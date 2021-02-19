@@ -4,13 +4,13 @@
   <img align="left" alt="Marssaljr | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/marssaljr">
-  <img align="left" alt="Marssaljr | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Marssaljr | Twitter" width="21px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Marssaljr's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Marssaljr's Discord" width="21px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/discord-round.svg" />
 </a>
 <a href="https://linkedin.com/in/marssaljr">
-  <img align="left" alt="Marssaljr | Linekdin" width="21px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/master/assets/linkedin.svg" />
+  <img align="left" alt="Marssaljr | Linekdin" width="21px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/linkedin.svg" />
 </a>
 
 <br />
