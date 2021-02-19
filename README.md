@@ -7,7 +7,7 @@
   <img align="left" alt="Marssaljr | Linktree" width="20px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/icons8-linktree.svg" />
 </a>
 <a href="https://marssaljr.medium.com">
-  <img align="left" alt="Marssaljr | Medium" width="20px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/medium.svg" />
+  <img align="left" alt="Marssaljr | Medium" width="20px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/icons8-medium-monogram.svg" />
 </a>
 <a href="https://twitter.com/marssaljr">
   <img align="left" alt="Marssaljr | Twitter" width="21px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/twitter.svg" />
