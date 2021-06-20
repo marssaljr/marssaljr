@@ -20,7 +20,7 @@
 </a>  
 <br/>   
 
-________
+________  
 
 ### 💬 How About me 
 - 👤  18 years old  
@@ -29,12 +29,13 @@ ________
 - 🔭  Currently looking for a Job  
 - 💬 Ask me about anything [here](https://github.com/marssaljr/marssaljr/issues/new)  
 
-________
+________  
+
 <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="50"><strong> Do you want some tea or cofee?</strong></img>  
 
 <a href="https://github.com/marssaljr?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact" />
 </a>  
-________
-[![worktime](https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact)](https://github.com/marssaljr?tab=repositories)
+________  
+[![worktime](https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact)](https://github.com/marssaljr?tab=repositories)  
 
