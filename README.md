@@ -52,7 +52,7 @@ ________
 #### GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=prusian" alt="Emanuel github stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&exclude_repo=google-search&theme=prussian" alt="Top Langs" width="334"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=prusian" alt="github stats" width="334"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&exclude_repo=google-search&theme=prusian" alt="Top Langs" width="334"/>
 </p>
 
