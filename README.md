@@ -36,14 +36,23 @@ ________
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" title="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" title="ReactJS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgresql" title="Postgresql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> </p>
 
-________  
+---  
 <p align="left"> <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="40" height="40"/><strong> Do you want some tea or cofee?</strong> </p>
 
 <a href="https://github.com/marssaljr?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&theme=prussian" />
 </a>  
 
-________  
+---  
 
 [![worktime](https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact&theme=prussian)](https://github.com/marssaljr?tab=repositories)  
+
+---
+
+#### GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelmassafera&count_private=true&show_icons=true&theme=radical" alt="Emanuel github stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmassafera&layout=compact&exclude_repo=exposure-fusion&theme=radical" alt="Top Langs" width="334"/>
+</p>
 
