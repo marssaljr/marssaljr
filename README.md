@@ -37,7 +37,7 @@ ________
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> </p>
 
 ---  
-<p align="left"> <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="40" height="40"/><strong> Do you want some tea or cofee?</strong> </p>
+
 
 <a href="https://github.com/marssaljr?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&theme=prussian" />
@@ -49,7 +49,8 @@ ________
 
 ---
 
-#### GitHub Statistics
+<p align="left"> <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="40" height="40"/><strong> Do you want some tea or cofee?</strong> </p>
+### Do you want some tea or coffee?
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=prussian" alt="github stats" width="334"/>
