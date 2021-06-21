@@ -34,23 +34,12 @@ ________
 ### Toolkit & Languages
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" title="HTML" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" title="NodeJS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" title="ReactJS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgresql" title="Postgresql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> </p>
-
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/> </p>  
 ---  
-
-
-<a href="https://github.com/marssaljr?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&theme=prussian" />
-</a>  
-
----  
-
 [![worktime](https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact&theme=prussian)](https://github.com/marssaljr?tab=repositories)  
-
 ---
 
-<p align="left"> <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="40" height="40"/><strong> Do you want some tea or cofee?</strong> </p>
-### Do you want some tea or coffee?
+<h3 align="left"> <img src="https://external-content.duckduckgo.com/iu/?u=https://image.flaticon.com/icons/png/512/226/226777.png&f=1&nofb=1" width="40" height="40"/><strong> Do you want some tea or cofee?</strong> </h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=prussian" alt="github stats" width="334"/>
