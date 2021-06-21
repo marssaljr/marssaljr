@@ -17,7 +17,8 @@
 </a>
 <a href="https://linkedin.com/in/marssaljr">
   <img align="left" alt="Marssaljr | Linekdin" width="21px" src="https://raw.githubusercontent.com/marssaljr/marssaljr/main/assets/linkedin.svg" />
-</a>  
+</a>
+![GitHub followers](https://img.shields.io/github/followers/marssaljr?label=Follow&style=social)  
 <br/>   
 
 ________  
