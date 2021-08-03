@@ -30,7 +30,7 @@ body {
 h1 {
 	font-size: 64px;
 }
-p {
+.about, .text {
 	padding-left: 25px;
 	font-size: 25px;
 	font-family: 'PT Sans', sans-serif;
@@ -61,7 +61,7 @@ strong {
    {
     font-size: 50px;
    }
-  p {
+  .about .text {
   	font-size: 1.3em;
   }
 }
@@ -72,7 +72,7 @@ strong {
   {
     font-size: 30px;
   }
-  p {
+  .about .text {
   	font-size: 1em;
   }
   .stack {
@@ -97,7 +97,7 @@ strong {
   {
 		font-size: 5em;
 	}
-	p {
+	.about .text {
 		font-size: 2.5em;
 	}
 }
@@ -105,7 +105,7 @@ strong {
 	.title-text {
 		padding: 1em;
 	}
-	p {
+	.about .text {
 		font-size: 20px;
 	}
 	h1

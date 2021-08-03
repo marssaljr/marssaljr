@@ -1,9 +1,9 @@
 import {Link} from 'react-router-dom'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import styled from 'styled-components';
-
+import Typist from 'react-typist';
 import Header from './components/Header';
-import Language from './components/Languages';
+import Language from './routes/Languages';
 import './styles.css';
 
 const Stack = styled.div`
@@ -38,7 +38,9 @@ function App() {
             <div className="title-text">
               <p className="about">I Build what you <strong>Need</strong></p>
               <h1>Marçal Junior</h1>
-              <p>FullStack Web Developer</p>
+              <Typist className="text"><p>FullStack Web Developer</p><Typist.Delay ms={500} />
+              Click on the <strong>Blue</strong> to see Projects.
+              </Typist>
             </div>
           </div>
             <Stack>
