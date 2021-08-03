@@ -42,7 +42,7 @@ const Grid = styled.div`
     box-shadow: 1px 1px 10px rgba(0, 0, 0, .5);
   }
   .grid-item:hover {
-    box-shadow: 2px 2px 4px var(--clr-white);
+    box-shadow: rgba(200, 200, 255, .5) 2px 2px 4px;
   }
   .grid-item .title {
     font-weight: bold;

@@ -8,9 +8,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-/*
-https://andytran.me/
-https://thiagosantosth.github.io/Portfolio/?fbclid=IwAR1fSqzgn7pTzDHRIwIti8R42GnUc0SEwv-V6J3IdHEuJ_S2IjvBYtSVxgU
-https://dummyimage.com/
-*/

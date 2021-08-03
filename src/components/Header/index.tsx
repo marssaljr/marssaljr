@@ -5,9 +5,7 @@ const Head = styled.header`
   box-sizing: border-box;
   background: var(--clr-dark);
   color: var(--clr-white);
-  box-shadow: 0px .5px 0px 0px #353941;
-  -webkit-box-shadow: 0px .5px 0px 0px #353941;
-  -moz-box-shadow: 0px .5px 0px 0px #353941;
+  box-shadow: rgb(53 57 65) 1px 1px 9px 1px;
   width: 100%;
   height: 4.5em;
 
@@ -17,6 +15,9 @@ const Head = styled.header`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+  }
+  strong {
+    display: none;
   }
 
   i {
@@ -63,9 +64,7 @@ const Head = styled.header`
   a {
     font-size: 16px;
   }
-  strong {
-    display: none;
-  }
+  
 `;
 
 function Header() {
