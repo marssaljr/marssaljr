@@ -63,6 +63,9 @@ const Head = styled.header`
   a {
     font-size: 16px;
   }
+  strong {
+    display: none;
+  }
 `;
 
 function Header() {
@@ -76,10 +79,10 @@ function Header() {
         </div>
         <div>
           <ul>
-            <li><i><a className="devicon-github-original" href="https://github.com/marssaljr" target="_blank" rel="noreferrer"/></i></li>
-            <li><i><a className="ri-discord-fill" href="https://discords.com/bio/p/marssal" target="_blank" rel="noreferrer"/></i></li>
-            <li><i><a className="devicon-twitter-original" href="https://twitter.com/marssaljr" target="_blank" rel="noreferrer"/></i></li>
-            <li><i><a className="devicon-linkedin-plain" href="https://linkedin.com/in/marssaljr" target="_blank" rel="noreferrer"/></i></li>
+            <li><i><a className="devicon-github-original" href="https://github.com/marssaljr" target="_blank" rel="noreferrer"><strong>.</strong></a></i></li>
+            <li><i><a className="ri-discord-fill" href="https://discords.com/bio/p/marssal" target="_blank" rel="noreferrer"><strong>.</strong></a></i></li>
+            <li><i><a className="devicon-twitter-original" href="https://twitter.com/marssaljr" target="_blank" rel="noreferrer"><strong>.</strong></a></i></li>
+            <li><i><a className="devicon-linkedin-plain" href="https://linkedin.com/in/marssaljr" target="_blank" rel="noreferrer"><strong>.</strong></a></i></li>
             <li></li>
           </ul>
         </div>
