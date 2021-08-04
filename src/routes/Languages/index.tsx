@@ -3,11 +3,6 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
 const Main = styled.div`
-  display: grid;
-  grid-auto-rows: auto;
-  justify-content: center;
-  box-sizing: border-box;
-
   :root {
     --clr-background: #353941;
     --clr-dark-light: #68686f;
@@ -16,7 +11,12 @@ const Main = styled.div`
     --clr-light: #90b8f8;
     --clr-white: #DEEEEA;
   }
-  background: var(--clr-dark-light);
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-auto-rows: auto;
+  justify-content: center;
+  box-sizing: border-box;
   border-radius: .3em;
   .grid {
     margin: 10px;
