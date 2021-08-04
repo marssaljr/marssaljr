@@ -34,6 +34,7 @@ const Main = styled.div`
     transition: 200ms all ease-in-out;
   }
   .grid-item:hover {
+    background-color: var(--clr-dark);
     box-shadow: #1f1f1f 8px 8px 8px;
   }
   .grid-item .title {
@@ -57,8 +58,9 @@ const Main = styled.div`
     transition: 1s;
   }
   #banner:hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
     border-radius: .3em;
+    box-shadow: #1f1f1f 8px 8px 8px;
   }
   .content {
     display: flex;
