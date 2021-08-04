@@ -15,8 +15,11 @@
 <a href="https://dsc.bio/marssal">
   <img align="left" alt="Marssaljr | Outlook" width="21px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
 </a> 
-
-
+<a href="https://raw.githubusercontent.com/marssaljr/marssaljr/main/.github/resume.pdf">
+  <img align="left" alt="Marssaljr | Curriculum"  width="21px" src="https://fonts.gstatic.com/s/i/materialiconsoutlined/picture_as_pdf/v11/24px.svg" />
+</a> 
+ 
+ 
 ![GitHub followers](https://img.shields.io/github/followers/marssaljr?label=Follow&style=flat-square&logo=github)    
 ## 
 <h3><img src="https://fonts.gstatic.com/s/i/materialiconstwotone/person/v15/24px.svg" width="21px"/> How About me</h3>
