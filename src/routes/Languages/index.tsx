@@ -31,11 +31,10 @@ const Main = styled.div`
     justify-content: center;
     align-items: center;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, .5);
-    transition: 0.5s;
+    transition: 200ms all ease-in-out;
   }
   .grid-item:hover {
-    box-shadow: #6e6e827f 2px 2px 4px;
-    transform: scale(1.1);
+    box-shadow: #1f1f1f 8px 8px 8px;
   }
   .grid-item .title {
     font-weight: bold;
@@ -58,11 +57,8 @@ const Main = styled.div`
     transition: 1s;
   }
   #banner:hover {
-    transform: scale(1.3);
+    transform: scale(1.5);
     border-radius: .3em;
-    box-shadow: 0px 1px 400px -19px rgba(0,0,0,0.38);
-    -webkit-box-shadow: 0px 1px 400px -19px rgba(0,0,0,0.38);
-    -moz-box-shadow: 0px 1px 400px -19px rgba(0,0,0,0.38);
   }
   .content {
     display: flex;
