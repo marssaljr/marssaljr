@@ -1,32 +1,11 @@
 import {Link} from 'react-router-dom'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import styled from 'styled-components';
-import Typist from 'react-typist';
+
 import Header from './components/Header';
+import Stack from './components/Stack';
+import TextCenter from './components/TextCenter';
 import Language from './routes/Languages';
 import './styles.css';
-
-const Stack = styled.div`
-  padding-top: 8px;
-  display: flex;
-  justify-content: center;
-
-
-  .active {
-    color: var(--clr-primary);
-  }
-  ul {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
-  }
-  @media (min-width: 1024px)
-  {
-		font-size: 1.5em;
-	}
-}
-  
-`;
 
 function App() {
   return (
@@ -34,15 +13,7 @@ function App() {
       <Router>
         <Header />
         <div className="App">
-          <div className="titles">
-            <div className="title-text">
-              <p className="about">I Build what you <strong>Need</strong></p>
-              <h1>Marçal Junior</h1>
-              <Typist className="text"><p>FullStack Web Developer</p><Typist.Delay ms={500} />
-              Click on the <strong>Blue</strong> to see Projects.
-              </Typist>
-            </div>
-          </div>
+          <TextCenter/>
             <Stack>
               <ul>
                 <li><Link className="devicon-javascript-plain active" to='/js'/></li>

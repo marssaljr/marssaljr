@@ -2,12 +2,12 @@ import styled from 'styled-components';
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const Main = styled.main`
+const Main = styled.div`
   display: grid;
-  grid-template-column: 10% 1fr 10%;
-`;
-const Grid = styled.div`
+  grid-auto-rows: auto;
+  justify-content: center;
   box-sizing: border-box;
+
   :root {
     --clr-background: #353941;
     --clr-dark-light: #68686f;
@@ -18,15 +18,8 @@ const Grid = styled.div`
   }
   background: var(--clr-dark-light);
   border-radius: .3em;
-  
-  
-  gap: 0;
-  margin: 0 auto;
-  padding: 1em;
-  
   .grid {
-    display: grid;
-    grid-template-rows: 1fr;
+    margin: 10px;
   }
   .grid-item {
     max-width: 500px;
@@ -36,45 +29,50 @@ const Grid = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
-    gap: 0;
     align-items: center;
     box-shadow: 1px 1px 10px rgba(0, 0, 0, .5);
+    transition: 0.5s;
   }
   .grid-item:hover {
-    box-shadow: rgba(200, 200, 255, .5) 2px 2px 4px;
+    box-shadow: #6e6e827f 2px 2px 4px;
+    transform: scale(1.1);
   }
   .grid-item .title {
     font-weight: bold;
-    padding: 10px;
-    margin: 5px;
   }
   .grid-item .description {
     margin: 5px;
   }
   .grid-item .description a {
+    text-decoration: none;
+    color: var(--clr-light);
     font-size: 16px;
   }
   
-  img {
+  #banner {
     display: block;
     max-width: 200px;
     max-height: 200px;
     margin: 0 auto;
-    border-radius: 0 0 .3em .3em;
+    border-radius:.3em;
+    transition: 1s;
   }
-  .wrapper {
-    display: grid;
-    row-gap: 2px;
+  #banner:hover {
+    transform: scale(1.3);
+    border-radius: .3em;
+    box-shadow: 0px 1px 400px -19px rgba(0,0,0,0.38);
+    -webkit-box-shadow: 0px 1px 400px -19px rgba(0,0,0,0.38);
+    -moz-box-shadow: 0px 1px 400px -19px rgba(0,0,0,0.38);
+  }
+  .content {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
   }
   @media (min-width: 600px)
   {
-  img
-   {
+  #banner {
     max-width: 400px;
-   }
-  p {
-    font-size: 1.3em;
   }
 }
 `;
@@ -100,7 +98,6 @@ function Language(props: Props) {
   }, []);
   return (
     <Main>
-      <Grid className="content">
       {repos.length > 0 ? (
         <div className="wrapper">
           {repos.map((repo) => (
@@ -111,7 +108,7 @@ function Language(props: Props) {
                   {repo["name"]}
                   </div>
                   <div className="banner">
-                    <img src={`${baseUrl}${repo["name"]}/main/.github/app.png`} alt={repo["name"]}/>
+                    <img id="banner" src={`${baseUrl}${repo["name"]}/main/.github/app.png`} alt={repo["name"]}/>
                   </div>
                   <div className="description">
                     <a href={`${repo["html_url"]}`}>{repo["description"]}</a>
@@ -127,7 +124,6 @@ function Language(props: Props) {
       ) : (
         <p className="loading">... </p>
       )}
-    </Grid>
     </Main>
   );
 }
