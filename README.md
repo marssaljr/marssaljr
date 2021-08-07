@@ -16,9 +16,7 @@ py> HowAboutMe = {
    '👨‍ age':     18,
    '📜 degree':  'Self Taught Software Development Major',
    '🏡 from':    'Pouso Alegre - MG - Brazil',
-   '📝 job':     'Looking for one',
-   '🐦 Twitter': 'twitter.com/marssaljr',
-   '💬 Discord': 'dsc.bio/marssal',
+   '📝 job':     'Looking for one'
 }
 ```
 ##  
