@@ -39,7 +39,7 @@ function TextCenter() {
     <div className="title-text">
       <p className="about">I Build what you <strong>Need</strong></p>
       <h1>Marçal Junior</h1>
-      <Typist className="text"><p>FullStack Web Developer</p><Typist.Delay ms={500} />
+      <Typist className="text"><p>Software Developer</p><Typist.Delay ms={500} />
       Click on the <strong>Blue</strong> to see Projects.
       </Typist>
     </div>
