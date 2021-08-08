@@ -38,6 +38,8 @@ py> HowAboutMe = {
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2A2A2A?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![VueJs](https://img.shields.io/badge/-Vue.js-00BA7E?style=flat-square&logo=Vue.js&logoColor=white)
+
 ![Nodejs](https://img.shields.io/badge/-Npm-2A2A2A?style=flat-square&logo=Npm&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Yarn-2A2A2A?style=flat-square&logo=Yarn&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-2A2A2A?style=flat-square&logo=git)
@@ -46,6 +48,7 @@ py> HowAboutMe = {
 ![Sublime](https://img.shields.io/badge/-Sublime-F45F12?style=flat-square&logo=sublime-text&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2A2A2A?style=flat-square&logo=Docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2A2A2A?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-CC6699?style=flat-square&logo=graphql&logoColor=white)
