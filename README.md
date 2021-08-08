@@ -14,7 +14,7 @@ js> const ContactData = {
 ```py
 py> HowAboutMe = {
    '👨‍ age':     18,
-   '📜 degree':  'Self Taught Software Development Major',
+   '📜 degree':  'Self Taught Software Development Degree',
    '🏡 from':    'Pouso Alegre - MG - Brazil',
    '📝 job':     'Looking for one'
 }
