@@ -22,7 +22,6 @@ const HowAboutMe = {
 ##  
  
 <h2 align="center">🔥 Expertise in</h2> 
-
 <table align="center">
   <tr>
     <td><img align="center" alt="Typescript" width="20px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /></td>
@@ -46,14 +45,9 @@ const HowAboutMe = {
   </tr>
 </table>
 
-# 
-
 <h2 align="left"><img alt="Do you want some cofee? Get in touch" width="20px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg"/> 
 Do you want some coffee? Anyway, Just get in touch</h2> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact&theme=prussian">
-
-## 
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=prussian" alt="github stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&exclude_repo=drango-knt&theme=prussian" alt="Top Langs" width="334"/>
