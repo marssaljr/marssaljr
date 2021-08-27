@@ -4,7 +4,6 @@
 const ContactData = {
    '👨‍💻 LinkedIn': 'linkedin.com/in/marssaljr',
    '📧 Mail':     'mailto:marssaljr@outlook.com',
-   '📜 Resume':   'bit.ly/3xxsUeu',
    '📝 Articles': 'marssaljr.medium.com',
    '🐦 Twitter':  'twitter.com/marssaljr',
    '💬 Discord':  'dsc.bio/marssal',
