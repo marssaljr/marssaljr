@@ -53,4 +53,4 @@ Do you want some coffee? Anyway, Just get in touch</h2>
 </p>
 
 
-made with ❤️ by Marçal Junior
+made with ❤️ by Marçal Junior [microsoft-cla](https://camo.githubusercontent.com/0852f49f4b382d7fb2bdb130ee34a44d66c662fdbfa34598ade116921f24177d/68747470733a2f2f636c612e6f70656e736f757263652e6d6963726f736f66742e636f6d2f70756c6c2f62616467652f7369676e6564)
