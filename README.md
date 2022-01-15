@@ -5,7 +5,7 @@
 const ContactData = {
    '👨‍💻 LinkedIn': 'linkedin.com/in/marssaljr',
    '📧 Mail':     'mailto:marssaljr@outlook.com',
-   '📝 Articles': 'marssaljr.vercelapp.com'
+   '📝 Articles': 'marssaljr.vercel.app'
 }
 ```
 ##  
