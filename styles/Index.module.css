@@ -1,0 +1,35 @@
+.personalPhoto {
+  border-radius: 50%;
+  width: 60%;
+  margin: 0 auto;
+  /*z-index: 2;
+  float: left;
+  left: 0;
+  position: absolute;*/
+  opacity: 0.8;
+}
+
+.link {
+  color: var(--clr-primary);
+}
+.whoami {
+  margin: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .personalPhoto {
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .personalPhoto {
+    max-width: 30%;
+    margin: 0 auto;
+    border-radius: 10%;
+  }
+  .whoami {
+    display: flex;
+    gap: 1rem;
+  }
+}

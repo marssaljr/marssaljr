@@ -1,16 +1,30 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+:root {
+  --clr-foreground: #d9d9d9;
+  --clr-background: #252422;
+  --clr-primary: #eb5e28;
 }
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: var(--clr-foreground);
+}
+
+body {
+  background-color: var(--clr-background);
+  background-image: url("../public/minimal_darth.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: var(--clr-primary);
 }

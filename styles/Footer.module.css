@@ -1,0 +1,28 @@
+.footer {
+  background-color: rgba(53, 53, 53, 0.45);
+  height: 78px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.footerContent {
+}
+
+.socials {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  text-align: center;
+}
+
+.socials li {
+  list-style-type: none;
+  margin: 1rem;
+}

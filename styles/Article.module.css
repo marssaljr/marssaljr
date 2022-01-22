@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Charter";
+  src: url("/fonts/charter-400-normal.woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.article {
+  margin: 0 auto;
+  padding-top: 2rem;
+  max-width: 680px;
+  text-align: left;
+}
+
+.section {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.articleThumbnail {
+  max-height: 500px;
+  width: 100%;
+  padding: 2;
+  margin: 2% auto 5% auto;
+  border-radius: 2rem;
+}
+
+.articleHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.articleBody {
+  font-family: "Charter";
+  text-align: justify;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  word-spacing: 2px;
+  white-space: wrap;
+  letter-spacing: -0.003em;
+  line-height: 32px;
+  font-size: 21px;
+  margin-bottom: 1.46em;
+  word-break: break-word;
+}
+
+@media only screen and (max-width: 700px) {
+  .articleBody {
+    font-size: 18px;
+    line-height: 32px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .articleBody {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

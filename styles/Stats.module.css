@@ -1,0 +1,63 @@
+.stats {
+  font-size: 0.75rem;
+}
+.personalInfo {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.about div {
+  margin-top: 0.5rem;
+}
+.about {
+  margin: 0.5rem;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.about ul li {
+  list-style-type: none;
+}
+
+.techs ul li {
+  list-style-type: none;
+}
+.techs {
+  margin: 0.5rem;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: flex-start;
+}
+.strong {
+  font-size: 20px;
+  margin: 5px;
+  color: var(--clr-primary);
+}
+
+@media only screen and (max-width: 768px) {
+  .strong {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .stats {
+    font-size: 1rem;
+  }
+  .personalInfo {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+  }
+  .techs {
+    display: flex;
+  }
+}

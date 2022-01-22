@@ -1,34 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h2 align="center">Hi there, I'm Marçal Junior! 👋 <img alt="did you see this man?" src="https://64.media.tumblr.com/de51cadfb499610defe1898a360df88d/tumblr_mn58l6qyTu1qdxgpro7_1280.png" width="150px"/></h2>
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
+```js
+const ContactData = {
+  "👨‍💻 LinkedIn": "linkedin.com/in/marssaljr",
+  "📧 Mail": "mailto:marssaljr@outlook.com",
+  "📝 Articles": "marssaljr.vercel.app",
+};
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```js
+const HowAboutMe = {
+  "👨‍ age": 19,
+  "📜 bio": "Web Developer",
+  "🏡 from": "Pouso Alegre - MG - Brazil",
+  "📝 job": "Looking for one",
+};
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+##
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<h3 align="center">🔥 Expertise in</h3> 
+<table align="center">
+  <tr>
+    <td><img align="center" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
+    <td><img align="center" alt="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
+    <td><img align="center" alt="Typescript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>    
+    <td><img align="center" alt="Html" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></td>
+    <td><img align="center" alt="Css" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></td>        
+    <td><img align="center" alt="Linux" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></td>
+    <td><img align="center" alt="Vim" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></td>    
+    <td><img align="center" alt="Git" width="20px" src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/git.svg" /></td>
+ </tr>
+  <tr>
+    <td><img align="center" alt="Django" width="20px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" /></td>
+    <td><img align="center" alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
+    <td><img align="center" alt="Node" width="20px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></td>   
+    <td><img align="center" alt="Next" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></td>
+    <td><img align="center" alt="Bootstrap" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
+    <td><img align="center" alt="Docker" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></td>
+    <td><img align="center" alt="Postgres" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></td>
+    <td><img aling="center" alt="Heroku" width="20px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/></td>
+  </tr>
+</table>
 
-## Learn More
+<h2 align="left"><img alt="Do you want some cofee? Get in touch" width="20px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg"/> 
+Do you want some coffee? Anyway, Just get in touch</h2> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact&theme=prussian">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=prussian" alt="github stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&exclude_repo=drango-knt&theme=prussian" alt="Top Langs" width="334"/>
+</p>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+made with ❤️ by Marçal Junior

@@ -1,0 +1,77 @@
+.container {
+  width: auto;
+  min-height: 100vh;
+  /* width: 80%; */
+  margin-top: 0rem;
+  margin-bottom: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.loading {
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: auto;
+  font-weight: bold;
+  font-size: 16px;
+}
+.projectId {
+  /*margin: 0 auto;*/
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+  align-content: center;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+}
+
+.projectLink {
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.project {
+  margin: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.thumbnail {
+  border-radius: 0.8rem;
+  max-height: 80%;
+}
+
+@media only screen and (max-width: 768px) {
+  .projectId {
+    margin: 1rem;
+  }
+  .thumbnail {
+    max-width: 100%;
+    max-height: 300px;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .description {
+  }
+  .description {
+    max-width: 50%;
+    min-width: 50%;
+    margin: 1.5em;
+    margin-top: 0;
+  }
+  .projectId {
+    flex-direction: row;
+    margin: 2rem;
+    padding: 2rem;
+  }
+  .thumbnail {
+    min-width: 300px;
+    min-height: 300px;
+    max-width: 300px;
+    max-height: 300px;
+  }
+}
