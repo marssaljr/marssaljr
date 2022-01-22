@@ -10,7 +10,7 @@ const Article = () => {
   const url = "https://marssaljr.vercel.app/article/";
   const { data, error } = pid
     ? useFetch(`${process.env.api_endpoint}/articles/${pid}`)
-    : null;
+    : 1;
 
   if (error)
     return (
