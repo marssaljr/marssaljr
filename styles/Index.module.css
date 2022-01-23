@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Charter";
+  src: url("/fonts/charter-400-normal.woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .personalPhoto {
   border-radius: 50%;
   width: 60%;
