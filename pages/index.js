@@ -13,41 +13,11 @@ export default function Home() {
         <div className={styles.whoamitext}>
           <h1>~# whoami</h1>
           <p>
-            Hello World, My name is Marçal Junior, and I'm a code writer. I just
-            write code since my 10 years old and
-          </p>
-          <p>
-            I create a lot of{" "}
-            <Link href="/projects">
-              <a className={styles.link}>projects</a>
-            </Link>{" "}
-            publics and privates usign JavaScript, Python and others programming
-            languages.
-          </p>
-          <p>
-            This site is my Personal Portfolio(I think you already notice it)
-            and a{" "}
-            <Link href="/blog">
-              <a className={styles.link}>Blog/Journaling</a>
-            </Link>{" "}
-            too,{" "}
-          </p>
-          <p>
-            so if you want you can read my texts. I like to write while coding,
-            seens like I'm teaching someone
-          </p>
-          <p>
-            or something like that. If you're interesting on my skills, you can
-            go to{" "}
-            <Link href="/stats">
-              <a className={styles.link}>stats</a>
-            </Link>{" "}
-            tab, or{" "}
-            <Link href="/hire">
-              <a className={styles.link}>hire-me</a>
-            </Link>{" "}
-            to send a email and get in touch If you not, I hope u enjoy and
-            learn something with it.
+            Hello World, My name is Marçal Junior, and I'm a code writer. I have just written code since my ten years old and
+I create a lot of <Link href="/projects"><a className={styles.link}>projects</a></Link> public and privates using JavaScript, Python, and others programming languages.
+This site is my Personal Portfolio(I think you already notice it) and a <Link href="/blog"><a className={styles.link}>Blog/Journaling</a></Link> too,
+so if you want you can read my texts. I like to write while coding, seems like I'm teaching someone
+or something like that. If you're interested in my skills, you can go to the <Link href="/stats"><a className={styles.link}>stats</a></Link> tab, or <Link href="/hire"><a className={styles.link}>hire me</a></Link> to send an email and get in touch If you are not, I hope u enjoy and learn something with it.
           </p>
         </div>
       </div>
