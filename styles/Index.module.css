@@ -12,8 +12,10 @@
 .link {
   color: var(--clr-primary);
 }
-.whoami p {
+.whoami {
   margin: 1rem;
+}
+.whoamitext {
   font-family: "Charter";
   text-align: justify;
   letter-spacing: 1px;
@@ -28,14 +30,14 @@
 }
 
 @media only screen and (max-width: 700px) {
-  .whoami p {
+  .whoamitext {
     font-size: 18px;
     line-height: 32px;
   }
 }
 
 @media only screen and (max-width: 380px) {
-  .whoami p {
+  .whoamitext {
     font-size: 16px;
     line-height: 24px;
   }
