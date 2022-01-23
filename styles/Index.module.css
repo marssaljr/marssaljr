@@ -12,8 +12,33 @@
 .link {
   color: var(--clr-primary);
 }
-.whoami {
+.whoami p {
   margin: 1rem;
+  font-family: "Charter";
+  text-align: justify;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  word-spacing: 2px;
+  white-space: wrap;
+  letter-spacing: -0.003em;
+  line-height: 32px;
+  font-size: 21px;
+  margin-bottom: 1.46em;
+  word-break: break-word;
+}
+
+@media only screen and (max-width: 700px) {
+  .whoami p {
+    font-size: 18px;
+    line-height: 32px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .whoami p {
+    font-size: 16px;
+    line-height: 24px;
+  }
 }
 
 @media only screen and (max-width: 768px) {
