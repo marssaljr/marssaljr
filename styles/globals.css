@@ -1,6 +1,6 @@
 :root {
   --clr-foreground: #d9d9d9;
-  --clr-background: #252422;
+  --clr-background: #191919;
   --clr-primary: #eb5e28;
 }
 
@@ -13,11 +13,12 @@
 
 body {
   background-color: var(--clr-background);
-  background-image: url("../public/minimal_darth.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+}
+
+.container {
+  margin: auto;
+  max-width: 1024px;
+  padding: 5px;
 }
 
 a {

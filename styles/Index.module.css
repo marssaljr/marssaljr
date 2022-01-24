@@ -5,15 +5,40 @@
   font-style: normal;
 }
 
-.personalPhoto {
-  border-radius: 50%;
-  width: 60%;
-  margin: 0 auto;
-  /*z-index: 2;
-  float: left;
-  left: 0;
-  position: absolute;*/
-  opacity: 0.8;
+.textIntro {
+  margin-bottom: 2rem;
+}
+.text {
+  margin-top: 5vh;
+  max-width: 409px;
+  max-height: 168px;
+}
+
+.textIntro h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 64px;
+  font-weight: bold;
+  line-height: 85px;
+}
+.textIntro p {
+  font-family: Roboto;
+  line-height: 21px;
+  letter-spacing: 0.485em;
+}
+
+.textHistory {
+  font-family: "Playfair Display", serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.objects {
+  display: flex;
+  padding: 10px;
+  gap: 5vw;
+  margin: 10vh auto;
 }
 
 .link {
@@ -34,6 +59,26 @@
   font-size: 21px;
   margin-bottom: 1.46em;
   word-break: break-word;
+}
+
+@media only screen and (max-width: 455px) {
+  .textIntro h1 {
+    font-size: 12vw;
+  }
+}
+
+@media only screen and (max-width: 646px) {
+  .personalPhotoi {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  .objects {
+    flex-direction: column;
+    height: 100vh;
+  }
+  .text {
+    margin: 0 auto;
+  }
 }
 
 @media only screen and (max-width: 700px) {
@@ -58,7 +103,7 @@
 
 @media only screen and (min-width: 768px) {
   .personalPhoto {
-    max-width: 30%;
+    max-width: 50%;
     margin: 0 auto;
     border-radius: 10%;
   }

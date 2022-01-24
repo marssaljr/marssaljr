@@ -8,52 +8,58 @@ export default function Navbar() {
     setMenu(false);
   }, []);
   return (
-    <div className={styles.header}>
-      <Link href="/">
-        <a className={styles.brand}>
-          <img src="/logo-mobile.svg" className={styles.logomobile} />
-          <img src="/logo.svg" className={styles.logodesktop} />
-        </a>
-      </Link>
-      <div className={styles.menu}>
-        <Link href="/blog">
-          <a>Blog</a>
+    <div className={styles.container}>
+      <div className={styles.header}>
+        <Link href="/">
+          <a className={styles.brand}>
+            <img src="/logo-mobile.svg" className={styles.logomobile} />
+            <img src="/logo.svg" className={styles.logodesktop} />
+          </a>
         </Link>
-        <Link href="/projects">
-          <a>Projects</a>
-        </Link>
-        <Link href="/stats">
-          <a>Stats</a>
-        </Link>
-        <Link href="/hire">
-          <a>Contact</a>
-        </Link>
-      </div>
-      <button
-        id="mobilemenu"
-        className={styles.mobileMenu}
-        onClick={() => (Menu ? setMenu(false) : setMenu(true))}
-      >
-        <img src="/menu.svg" className={styles.menuicon} />
-      </button>
-      {Menu ? (
-        <ul className={styles.MobileMenu}>
+        <div className={styles.menu}>
           <Link href="/blog">
-            <li className={styles.list}>Blog</li>
+            <a>
+              {" "}
+              <img src="/dot.svg" className={styles.dot} />
+              Blog
+            </a>
           </Link>
           <Link href="/projects">
-            <li className={styles.list}>Projects</li>
+            <a>Projects</a>
           </Link>
           <Link href="/stats">
-            <li className={styles.list}>Stats</li>
+            <a>Stats</a>
           </Link>
           <Link href="/hire">
-            <li className={styles.list}>Contact</li>
+            <a>Contact</a>
           </Link>
-        </ul>
-      ) : (
-        ""
-      )}
+        </div>
+        <button
+          id="mobilemenu"
+          className={styles.mobileMenu}
+          onClick={() => (Menu ? setMenu(false) : setMenu(true))}
+        >
+          <img src="/menu.svg" className={styles.menuicon} />
+        </button>
+        {Menu ? (
+          <ul className={styles.MobileMenu}>
+            <Link href="/blog">
+              <li className={styles.list}>Blog</li>
+            </Link>
+            <Link href="/projects">
+              <li className={styles.list}>Projects</li>
+            </Link>
+            <Link href="/stats">
+              <li className={styles.list}>Stats</li>
+            </Link>
+            <Link href="/hire">
+              <li className={styles.list}>Contact</li>
+            </Link>
+          </ul>
+        ) : (
+          ""
+        )}
+      </div>
     </div>
   );
 }
