@@ -1,0 +1,36 @@
+.about {
+  margin: 5% auto;
+  margin-left: 10vw;
+  font-size: 0.75rem;
+  font-family: "Playfair Display";
+}
+
+.about h1 {
+  font-weight: bold;
+  font-size: 48px;
+}
+
+.aboutText {
+  width: 703px;
+  height: 379px;
+  background: #191919;
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+}
+
+.aboutText p {
+  max-width: 675px;
+  max-height: 345px;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0.16em;
+  padding: 0.5em;
+}
+
+@media only screen and (max-width: 768px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
