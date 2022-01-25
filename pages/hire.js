@@ -40,55 +40,59 @@ export default function Hire() {
     return (
       <>
         <h1 className={styles.submitted}>
-          You mail has been sended to my inbox!
+          Your mail has been sent to my inbox!
         </h1>
       </>
     );
 
   return (
-    <>
-      <form className={styles.form}>
-        <h1>Send a mail to me</h1>
-        <label htmlFor="name">Name</label>
-        <input
-          type="text"
-          onChange={(e) => {
-            setName(e.target.value);
-          }}
-          name="name"
-          className={styles.inputField}
-        />
-        <label htmlFor="email">Email</label>
-        <input
-          type="email"
-          onChange={(e) => {
-            setEmail(e.target.value);
-          }}
-          name="email"
-          className={styles.inputField}
-        />
-        <label htmlFor="message">Message</label>
-        <textarea
-          type="text"
-          name="message"
-          rows="10"
-          cols="25"
-          placeholder="Hello Marçal, I want you on my team!"
-          className={styles.textField}
-          onChange={(e) => {
-            setMessage(e.target.value);
-          }}
-        />
-        <button
-          className={styles.inputButton}
-          type="submit"
-          onClick={(e) => {
-            handleSubmit(e);
-          }}
-        >
-          Send
-        </button>
-      </form>
-    </>
+    <div className="container">
+      <div className={styles.formHand}>
+        <div className={styles.title}>
+          <h1>Send a mail to me</h1>
+          <p>It's free</p>
+        </div>
+        <form className={styles.form}>
+          <input
+            type="text"
+            onChange={(e) => {
+              setName(e.target.value);
+            }}
+            name="name"
+            className={styles.inputField}
+            placeholder="Name"
+          />
+          <input
+            type="email"
+            onChange={(e) => {
+              setEmail(e.target.value);
+            }}
+            name="email"
+            className={styles.inputField}
+            placeholder="Email"
+          />
+          <textarea
+            type="text"
+            name="message"
+            rows="10"
+            cols="25"
+            placeholder="I want you on my team!"
+            className={styles.textField}
+            onChange={(e) => {
+              setMessage(e.target.value);
+            }}
+          />
+          <button
+            className={styles.inputButton}
+            type="submit"
+            onClick={(e) => {
+              handleSubmit(e);
+            }}
+          >
+            Send
+          </button>
+        </form>
+      </div>
+    </div>
   );
 }
