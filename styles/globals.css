@@ -18,6 +18,7 @@ body {
 .container {
   margin: auto;
   max-width: 1024px;
+  min-height: 42.188rem;
   padding: 5px;
 }
 
