@@ -3,7 +3,7 @@ import styles from "../styles/Blog.module.css";
 import Link from "next/link";
 import Loading from "../components/loading";
 
-export default function Home() {
+export default function Blog() {
   const { data, error } = useFetch(process.env.api_endpoint + "/articles");
   if (error) {
     return (
