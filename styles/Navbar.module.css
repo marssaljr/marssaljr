@@ -72,9 +72,6 @@
   position: absolute;
   float: right;
   top: 9%;
-  /*
-  background: #c4c4c4;
-  mix-blend-mode: multiply;*/
   right: 0;
   transition-delay: 250ms;
   transition-property: display;
@@ -82,10 +79,19 @@
   flex-direction: row;
   flex-wrap: nowrap;
   align-content: center;
+  width: 100%;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  text-decoration: none;
   justify-content: center;
-  align-items: center;
+  background: var(--clr-secondary);
+  font-family: "Roboto Slab";
   padding: 0;
   border-bottom-left-radius: 0.2rem;
+}
+
+.MobileMenu li:hover {
+  color: var(--clr-background);
 }
 .brand {
   margin: 1rem;
