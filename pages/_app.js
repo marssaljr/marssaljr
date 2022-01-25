@@ -29,10 +29,6 @@ function MyApp({ Component, pageProps }) {
         />
         <title>Marçal Jr</title>
         <meta
-          property="og:description"
-          content="My portfolio and Personal blog where I share a lot of things I do every week, hope you like it and if you're a head hunter, make sure to hire me 😂🙏"
-        />
-        <meta
           property="og:image"
           content="https://marssaljr.vercel.app/logo.svg"
         />
