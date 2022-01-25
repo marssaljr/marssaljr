@@ -1,9 +1,9 @@
-@font-face {
+/*@font-face {
   font-family: "Charter";
   src: url("/fonts/charter-400-normal.woff");
   font-weight: normal;
   font-style: normal;
-}
+}*/
 
 .project {
   margin: 0 auto;
@@ -25,13 +25,17 @@
   border-radius: 2rem;
 }
 
+.projectTitle {
+  font-size: clamp(1rem, 2.5vw, 4rem);
+}
+
 .projectHeader {
   display: flex;
   justify-content: space-between;
 }
 
 .projectBody {
-  font-family: "Charter";
+  font-family: "Roboto Slab", "Charter";
   text-align: justify;
   letter-spacing: 1px;
   line-height: 1.5;

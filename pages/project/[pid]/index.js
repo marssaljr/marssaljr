@@ -1,5 +1,5 @@
 import { useRouter } from "next/router";
-import styles from "../../../styles/Project.module.css";
+import styles from "../../../styles/Article.module.css";
 //import useSWR from "swr";
 import useFetch from "../../../hooks/useFetch";
 import Loading from "../../../components/loading";
@@ -38,16 +38,16 @@ const Project = () => {
         <meta property="og:image:height" content="600" />
         <meta property="og:url" content={url + data.id} />
       </Header>
-      <div className={styles.project}>
-        <div className={styles.projectHeader}>
+      <div className={styles.article}>
+        <div className={styles.articleHeader}>
           <h1>{data.title}</h1>
         </div>
         <img
           src={data.thumbnail}
-          className={styles.projectThumbnail}
+          className={styles.articleThumbnail}
           width="100%"
         />
-        <div className={styles.projectBody}>
+        <div className={styles.articleBody}>
           <p>{data.body}</p>
         </div>
       </div>

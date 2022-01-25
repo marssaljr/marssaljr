@@ -1,15 +1,16 @@
-@font-face {
+/*@font-face {
   font-family: "Charter";
   src: url("/fonts/charter-400-normal.woff");
   font-weight: normal;
   font-style: normal;
-}
+}*/
 
 .article {
   margin: 0 auto;
   padding-top: 2rem;
   max-width: 680px;
   text-align: left;
+  font-family: "Roboto Slab", serif;
 }
 
 .section {
@@ -22,7 +23,7 @@
   width: 100%;
   padding: 2;
   margin: 2% auto 5% auto;
-  border-radius: 2rem;
+  border-radius: 0.4rem;
 }
 
 .articleHeader {
@@ -31,7 +32,7 @@
 }
 
 .articleBody {
-  font-family: "Charter";
+  font-family: "Roboto Slab", "Charter", serif;
   text-align: justify;
   letter-spacing: 1px;
   line-height: 1.5;
@@ -42,6 +43,7 @@
   font-size: 21px;
   margin-bottom: 1.46em;
   word-break: break-word;
+  color: var(--clr-foreground);
 }
 
 @media only screen and (max-width: 700px) {
@@ -49,9 +51,21 @@
     font-size: 18px;
     line-height: 32px;
   }
+  .section {
+    margin: 1rem;
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .articleHeader h1 {
+    font-size: 64px;
+  }
 }
 
 @media only screen and (max-width: 380px) {
+  .articleThumbnail {
+    max-height: 400px;
+  }
   .articleBody {
     font-size: 16px;
     line-height: 24px;

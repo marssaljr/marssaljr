@@ -1,5 +1,5 @@
 import useFetch from "../hooks/useFetch";
-import styles from "../styles/Projects.module.css";
+import styles from "../styles/Blog.module.css";
 import Link from "next/link";
 import Loading from "../components/loading";
 
@@ -22,25 +22,23 @@ export default function Projects() {
     );
   }
   return (
-    <div className={styles.container}>
-      <div className={styles.project}>
-        {data.map((project) => (
-          <Link className={styles.projectLink} href={`/project/${project.id}`}>
-            <div className={styles.projectId} key={project.id}>
-              <img
-                src={project.thumbnail}
-                className={styles.thumbnail}
-                width="100%"
-              />
-              <div className={styles.description}>
-                <h2 className={styles.projectTitle}>{project.title}</h2>
+    <div className="container">
+      {data.map((article) => (
+        <Link className={styles.articleLink} href={`/project/${article.id}`}>
+          <div className={styles.articleId} key={article.id}>
+            <img
+              src={article.thumbnail}
+              className={styles.thumbnail}
+              width="100%"
+            />
+            <div className={styles.description}>
+              <h2 className={styles.articleTitle}>{article.title}</h2>
 
-                <p>{project.description}</p>
-              </div>
+              <p>{article.description}</p>
             </div>
-          </Link>
-        ))}
-      </div>
+          </div>
+        </Link>
+      ))}
     </div>
   );
 }
