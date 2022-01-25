@@ -22,7 +22,7 @@ export default function Home() {
     );
   }
   return (
-    <div className={styles.container}>
+    <div className="container">
       {data.map((article) => (
         <Link className={styles.articleLink} href={`/article/${article.id}`}>
           <div className={styles.articleId} key={article.id}>
@@ -36,7 +36,7 @@ export default function Home() {
               <div className={styles.categories}>
                 {article.categories.map((slug) => (
                   <span className={styles.category}>
-                    <strong>#{slug.category}</strong>
+                    <strong>{slug.category}</strong>
                   </span>
                 ))}
               </div>

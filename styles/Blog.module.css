@@ -38,15 +38,23 @@
 }
 
 .category {
-  background-color: var(--clr-primary);
-  border-radius: 0.5rem;
-  padding: 0.1rem;
-  font-size: 12px;
+  background-color: var(--clr-background);
+  border: 1px solid var(--clr-foreground);
+  padding: 0.5rem;
+  font-size: 0.9rem;
 }
 
 .thumbnail {
   border-radius: 0.8rem;
   max-height: 80%;
+}
+
+.description {
+  font-family: "Playfair Display", serif;
+}
+
+.description h2 {
+  font-size: clamp(0.5rem, 3rem, 5rem);
 }
 
 @media only screen and (max-width: 768px) {
@@ -59,16 +67,17 @@
     height: auto;
     margin: 0 auto;
   }
+  .description {
+    margin-bottom: 1.5rem;
+  }
 }
 
 @media only screen and (min-width: 768px) {
   .description {
-    margin: 20px;
-    padding: 20px;
+    margin-left: 1.5rem;
   }
   .description p {
-    min-width: 90%;
-    padding-top: 20px;
+    margin-top: 1rem;
   }
   .articleId {
     flex-direction: row;
@@ -76,9 +85,11 @@
     padding: 2rem;
   }
   .thumbnail {
-    min-width: 300px;
-    min-height: 300px;
-    max-width: 300px;
-    max-height: 300px;
+    width: 437px;
+    height: 276px;
+    min-width: 437px;
+    min-height: 276px;
+    max-width: 437px;
+    max-height: 276px;
   }
 }
