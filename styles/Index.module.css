@@ -1,15 +1,15 @@
-@font-face {
+/*@font-face {
   font-family: "Charter";
   src: url("/fonts/charter-400-normal.woff");
   font-weight: normal;
   font-style: normal;
-}
+}*/
 
 .textIntro {
   margin-bottom: 2rem;
 }
 .text {
-  margin-top: 5vh;
+  margin-top: 3.5vh;
   max-width: 409px;
   max-height: 168px;
 }
@@ -27,11 +27,11 @@
 }
 
 .textHistory {
-  font-family: "Playfair Display", serif;
+  font-family: "Roboto Slab", "Playfair Display", serif;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 26px;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 300;
 }
 
 .objects {
