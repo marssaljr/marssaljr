@@ -29,4 +29,9 @@
 .socials li {
   list-style-type: none;
   margin: 1rem;
+  transition: all ease 1s;
+}
+
+.socials li a i:hover {
+  color: var(--clr-secondary);
 }
