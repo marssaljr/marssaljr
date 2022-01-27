@@ -1,16 +1,8 @@
 export default function (req, res) {
   require("dotenv").config();
 
-  let nodemailer = require("nodemailer");
-  const transporter = nodemailer.createTransport({
-    port: 465,
-    host: "smtp.gmail.com",
-    auth: {
-      user: process.env.from,
-      pass: process.env.email_password,
-    },
-    secure: true,
-  });
+  let sgMail = require("@sendgrid/mail");
+  sgMail.setApiKey(process.env.send_grid);
 
   const mailData = {
     from: process.env.from,
@@ -20,11 +12,14 @@ export default function (req, res) {
     html: `<div>${req.body.message}</div><p>Sent from: ${req.body.email}</p>`,
   };
 
-  transporter.sendMail(mailData, function (err, info) {
-    if (err) console.log(err);
-    else console.log(info);
-  });
+  sgMail
+    .send(mailData)
+    .then(() => {
+      console.log("Email sent");
+    })
+    .catch((err) => {
+      console.error(err);
+    });
 
-  console.log(req.body);
   res.send("success");
 }
