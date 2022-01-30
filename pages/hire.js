@@ -53,6 +53,7 @@ export default function Hire() {
           <p>It's free</p>
         </div>
         <form className={styles.form} method="POST" data-netlify="true">
+          <input type="hidden" name="form-name" value="contact" />
           <input
             type="text"
             onChange={(e) => {
