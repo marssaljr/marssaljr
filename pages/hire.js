@@ -1,5 +1,4 @@
 import styles from "../styles/Form.module.css";
-import { useState } from "react";
 
 export default function Hire() {
   return (
@@ -15,6 +14,7 @@ export default function Hire() {
           method="POST"
           action="/success"
           data-netlify="true"
+          data-netlify-recaptcha="true"
         >
           <input type="hidden" name="form-name" value="contact" />
           <input
