@@ -2,21 +2,6 @@ import styles from "../styles/Form.module.css";
 import { useState } from "react";
 
 export default function Hire() {
-  const [submitted, setSubmitted] = useState(false);
-
-  const submit = (e) => {
-    e.preventDefault();
-    setSubmitted(true);
-  };
-  if (submitted)
-    return (
-      <>
-        <h1 className={styles.submitted}>
-          Your mail has been sent to my inbox!
-        </h1>
-      </>
-    );
-
   return (
     <div className="container">
       <div className={styles.formHand}>
@@ -28,6 +13,7 @@ export default function Hire() {
           name="contact"
           className={styles.form}
           method="POST"
+          action="/success"
           data-netlify="true"
         >
           <input type="hidden" name="form-name" value="contact" />
@@ -51,7 +37,7 @@ export default function Hire() {
             placeholder="I want you on my team!"
             className={styles.textField}
           />
-          <button className={styles.inputButton} type="submit" onClick={submit}>
+          <button className={styles.inputButton} type="submit">
             Send
           </button>
         </form>
