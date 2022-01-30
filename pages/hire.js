@@ -24,7 +24,12 @@ export default function Hire() {
           <h1>Send a mail to me</h1>
           <p>It's free</p>
         </div>
-        <form className={styles.form} method="POST" data-netlify="true">
+        <form
+          name="contact"
+          className={styles.form}
+          method="POST"
+          data-netlify="true"
+        >
           <input type="hidden" name="form-name" value="contact" />
           <input
             type="text"
