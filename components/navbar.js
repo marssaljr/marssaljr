@@ -30,7 +30,7 @@ export default function Navbar() {
           <Link href="/about">
             <a>About</a>
           </Link>
-          <Link href="/hire">
+          <Link href="https://marssaljr.herokuapp.com/hire">
             <a>Contact</a>
           </Link>
         </div>
@@ -52,7 +52,7 @@ export default function Navbar() {
             <Link href="/about">
               <li className={styles.list}>About</li>
             </Link>
-            <Link href="/hire">
+            <Link href="https://marssaljr.herokuapp.com/hire">
               <li className={styles.list}>Contact</li>
             </Link>
           </ul>
