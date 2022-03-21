@@ -3,8 +3,7 @@
 ```js
 const ContactData = {
   "👨‍💻 LinkedIn": "linkedin.com/in/marssaljr",
-  "📧 Mail": "mailto:marssaljr@outlook.com",
-  "📝 Articles": "marssaljr.vercel.app",
+  "📬 Telegram": "t.me/marssaljr",
 };
 ```
 
@@ -13,7 +12,7 @@ const ContactData = {
 ```js
 const HowAboutMe = {
   "👨‍ age": 19,
-  "📜 bio": "Web Developer",
+  "📜 bio": "Yet, another developer",
   "🏡 from": "Pouso Alegre - MG - Brazil",
   "📝 job": "Looking for one",
 };
