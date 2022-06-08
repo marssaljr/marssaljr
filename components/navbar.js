@@ -17,14 +17,14 @@ export default function Navbar() {
           </a>
         </Link>
         <div className={styles.menu}>
-          <Link href="/blog">
+          <Link href="http://marssaljr.herokuapp.com/posts/">
             <a>
               {" "}
               <img src="/dot.svg" className={styles.dot} />
               Blog
             </a>
           </Link>
-          <Link href="/projects">
+          <Link href="http://marssaljr.herokuapp.com/projects/">
             <a>Projects</a>
           </Link>
           <Link href="/about">
