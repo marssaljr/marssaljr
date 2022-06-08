@@ -26,7 +26,7 @@ const HowAboutMe = {
     <td><img align="center" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
     <td><img align="center" alt="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
     <td><img align="center" alt="Typescript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>    
-    <td><img align="center" alt="Html" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></td>
+    <td><img align="center" alt="Go" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /></td>
     <td><img align="center" alt="Css" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></td>        
     <td><img align="center" alt="Linux" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></td>
     <td><img align="center" alt="Vim" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></td>    
