@@ -1,21 +1,23 @@
-<h2 align="center">Hi there, I'm Marçal Junior! 👋 <img alt="did you see this man?" src="https://64.media.tumblr.com/de51cadfb499610defe1898a360df88d/tumblr_mn58l6qyTu1qdxgpro7_1280.png" width="150px"/></h2>
+<h2 align="center">
+  <img src="https://www.gnu.org/graphics/meditate.svg" width="150px"/>
+  <p>
+  Hi there, I'm Marçal Junior! 👋
+  </p>
+</h2>
 
-```js
-const ContactData = {
+
+```py
+ContactData = {
   "👨‍💻 LinkedIn": "linkedin.com/in/marssaljr",
   "📬 Telegram": "t.me/marssaljr",
-};
-```
+}
 
-##
-
-```js
-const HowAboutMe = {
+HowAboutMe = {
   "👨‍ age": 19,
   "📜 bio": "Yet, another developer",
   "🏡 from": "Pouso Alegre - MG - Brazil",
   "📝 job": "Looking for one",
-};
+}
 ```
 
 ##
@@ -37,19 +39,19 @@ const HowAboutMe = {
     <td><img align="center" alt="React" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></td>
     <td><img align="center" alt="Node" width="20px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></td>   
     <td><img align="center" alt="Next" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></td>
-    <td><img align="center" alt="Bootstrap" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
+    <td><img align="center" alt="gnuboy" width="20px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_emacs.svg" /></td>
     <td><img align="center" alt="Docker" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" /></td>
     <td><img align="center" alt="Postgres" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" /></td>
     <td><img aling="center" alt="Heroku" width="20px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"/></td>
   </tr>
 </table>
 
-<h2 align="left"><img alt="Do you want some cofee? Get in touch" width="20px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg"/> 
-Do you want some coffee? Anyway, Just get in touch</h2> 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact&theme=prussian">
+## 
+
+<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact&theme=prussian">-->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=prussian" alt="github stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&exclude_repo=drango-knt&theme=prussian" alt="Top Langs" width="334"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=nord" alt="github stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marssaljr&layout=compact&exclude_repo=drango-knt&theme=nord" alt="Top Langs" width="334"/>
 </p>
 
-made with ❤️ by Marçal Junior
+<img alt="did you see this man?" src="https://64.media.tumblr.com/de51cadfb499610defe1898a360df88d/tumblr_mn58l6qyTu1qdxgpro7_1280.png" width="50px"/> made with ❤️ by Marçal Junior with <img align="center" alt="Vim" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> and <img align="center" alt="emacs" width="18px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_emacs.svg" />
