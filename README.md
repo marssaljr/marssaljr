@@ -10,8 +10,9 @@
 ```py
 ContactData = {
   "👨‍💻 LinkedIn": "linkedin.com/in/marssaljr",
+  "📚 Reading":  "goodreads.com/marssaljr",
   "📬 Telegram": "t.me/marssaljr",
-  "⏱️ Time": "https://wakatime.com/@7753a337-89e7-4141-98fe-bb69ef306766"
+  "⏱️ Time":     "wakatime.com/@marssaljr"
 }
 
 HowAboutMe = {
