@@ -20,7 +20,7 @@ HowAboutMe = {
   "👨‍ age": 19,
   "📜 bio": "Yet, another developer",
   "🏡 from": "Pouso Alegre - MG - Brazil",
-  "📝 job": "Looking for one"
+  "📝 job": "Dev Ops Intern at Cloudmatize"
 }
 ```
 
