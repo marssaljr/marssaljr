@@ -1,31 +1,38 @@
 ![](https://hit.yhype.me/github/profile?user_id=62912704)
-<h2 align="center">
-  <img src="https://www.gnu.org/graphics/meditate.svg" width="150px"/>
-  <p>
-  Hi there, I'm Marçal Junior! 👋
-  </p>
-</h2>
+# Hello there! 👋🤓
 
+I'm Marçal, a Software Engineer based in Brazil
 
-```py
-ContactData = {
-  "👨‍💻 LinkedIn": "linkedin.com/in/marssaljr",
-  "📚 Reading":  "goodreads.com/marssaljr",
-  "📬 Email":    "marssaljr@gmail.com",
-  "⏱️ Time":     "wakatime.com/@marssaljr"
-}
+## 💡 Things I can do 
+- 🖥️  Programming languages: Python, JavaScript, TypeScript, Flutter
+- 💻  Web Frameworks: React, Next.js, Django, Flask, FastAPI, Express
+- 🎨  Design Tools: Tailwindcss, Css, Figma
+- 🌍  Human languages: English, Portuguese
+- 🤹  Other skills: Chrome Extension, Docker, Google Cloud Platform, GraphQL, Git / GitHub, Terraform, Google Admin Workspace, Linux
+- 🧠  IA Tools: ChatGPT, Copilot
 
-HowAboutMe = {
-  "👨‍ age":  21,
-  "📜 bio":  "Yet, another developer",
-  "🏡 from": "Home - Brazil",
-  "📝 job":  "Dev Ops Developer at Cloudmatize"
-}
-```
+## 📖 Things I am learning about
+- 📅  Scrum and Agile Project Management
+- 🗣️  How to teach and talk to people
+- 🛠️  System Design and Scalability
+- 🧑‍🤝‍🧑  Leadership
+- 🎨  UI/UX
+- 📱  Android Development (Flutter/Kotlin)
+- 🚀  Entrepreneurship
 
-##
+## 🛠️ Where can I be useful
+If you're trying to automate some cloud stuff, maybe creating web, desktop, android apps or even browser extensions
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=marssaljr&layout=compact&theme=github_dark_dimmed">
+## 💪 Things I do for fun
 
+- 🎨  I enjoy creating designs in figma and css
+- ⌨️  I spend a lot of time coding (usually browser extensions)
+- 🎮  I like to play games on my free time
+- ⚙️  I usually change my Linux and Editors settings
+- 🐛  Also like to exploit some games
+
+## 🧮 Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marssaljr&show_icons=true&count_private=true&theme=github_dark_dimmed)](https://github.com/marssaljr)
 
 <img alt="did you see this man?" src="https://64.media.tumblr.com/de51cadfb499610defe1898a360df88d/tumblr_mn58l6qyTu1qdxgpro7_1280.png" width="50px"/> made with ❤️ by Marçal Junior; Btw I use <img align="center" alt="Vim" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
