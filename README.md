@@ -33,6 +33,7 @@ If you're trying to automate some cloud stuff, maybe creating web, desktop, andr
 
 ## 🧮 Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marssaljr&show_icons=true&count_private=true&theme=github_dark_dimmed)](https://github.com/marssaljr)
+[![GitHub stats](https://github-readme-stats-ee604mdd3-marssaljrs-projects.vercel.app/api?username=marssaljr&count_private=true&show_icons=true&theme=github_dark_dimmed)](https://github.com/marssaljr)
+
 
 <img alt="did you see this man?" src="https://64.media.tumblr.com/de51cadfb499610defe1898a360df88d/tumblr_mn58l6qyTu1qdxgpro7_1280.png" width="50px"/> made with ❤️ by Marçal Junior; Btw I use <img align="center" alt="Vim" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
