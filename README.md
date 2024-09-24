@@ -4,12 +4,12 @@
 I'm Marçal, a Software Engineer based in Brazil
 
 ## 💡 Things I can do 
-- 🖥️  Programming languages: Python, JavaScript, TypeScript, Flutter
-- 💻  Web Frameworks: React, Next.js, Django, Flask, FastAPI, Express
-- 🎨  Design Tools: Tailwindcss, Css, Figma
-- 🌍  Human languages: English, Portuguese
-- 🤹  Other skills: Chrome Extension, Docker, Google Cloud Platform, GraphQL, Git / GitHub, Terraform, Google Admin Workspace, Linux
-- 🧠  IA Tools: ChatGPT, Copilot
+- 🖥️  **Programming languages**: Python, JavaScript, TypeScript, Flutter
+- 💻  **Web Frameworks**: React, Next.js, Django, Flask, FastAPI, Express
+- 🎨  **Design Tools**: Tailwindcss, Css, Figma
+- 🌍  **Human languages**: English, Portuguese
+- 🤹  **Other skills**: Chrome Extension, Docker, Google Cloud Platform, GraphQL, Git / GitHub, Terraform, Google Admin Workspace, Linux
+- 🧠  **IA Tools**: ChatGPT, Copilot
 
 ## 📖 Things I am learning about
 - 📅  Scrum and Agile Project Management
