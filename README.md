@@ -4,7 +4,7 @@
 I'm Marçal, a Software Engineer based in Brazil
 
 ## 💡 Things I can do 
-- 🖥️  **Programming languages**: Python, JavaScript, TypeScript, Flutter
+- 🖥️  **Programming languages**: Kotlin, Python, JavaScript, TypeScript, Flutter
 - 💻  **Web Frameworks**: React, Next.js, Django, Flask, FastAPI, Express
 - 🎨  **Design Tools**: Tailwindcss, Css, Figma
 - 🌍  **Human languages**: English, Portuguese
