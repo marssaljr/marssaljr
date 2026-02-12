@@ -15,6 +15,5 @@ Electron • GCP • Docker • Terraform
 ## Focus
 Scalable front-end architectures and product-driven development.
 
----
 
 LinkedIn → https://linkedin.com/in/marssaljr
