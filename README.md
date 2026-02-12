@@ -20,5 +20,7 @@ LinkedIn → https://linkedin.com/in/marssaljr
 
 # Projects
 SignalNext → https://signalnext.vercel.app
+Whatsapp Web Fix → https://chromewebstore.google.com/detail/whatsapp-fix-extension/lenfgambahdhdgcjfdfhkngdhjlbodfg
+MatchTrader Risk Guard → https://chromewebstore.google.com/detail/matchtrader-risk-guard/kkkgkcmbfpgpgndgoaacgjnnjnbgbdda
 
 and others bellow
