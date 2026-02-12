@@ -3,6 +3,7 @@
 Software Engineer specialized in Web Applications, Browser Extensions and Cloud Automation.
 
 🇧🇷 Brazil  
+LinkedIn → https://linkedin.com/in/marssaljr
 
 React • Javascript • TypeScript • Node • Python  
 Electron • Neutralinojs • GCP • Docker • Terraform  
@@ -14,9 +15,6 @@ Electron • Neutralinojs • GCP • Docker • Terraform
 
 ## Focus
 Scalable front-end architectures and product-driven development.
-
-
-LinkedIn → https://linkedin.com/in/marssaljr
 
 # Projects
 ## Work projects
