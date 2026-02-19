@@ -1,13 +1,13 @@
 # Marçal Simião
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr/)](https://www.linkedin.com/in/marssaljr/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:marssaljr@hotmail.com)](mailto:marssaljr@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marssaljr@hotmail.com)](mailto:marssaljr@hotmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/m284nb)](https://wa.link/m284nb)
 [![GitHub Followers](https://img.shields.io/github/followers/marssaljr?label=follow&style=social)](https://github.com/marssaljr)
 
 Software Engineer specialized in Web Applications, Browser Extensions and Cloud Automation.
 
-🇧🇷 Brazil  
-LinkedIn → https://linkedin.com/in/marssaljr
+🇧🇷 Brazil
 
 React • Javascript • TypeScript • Node • Python  
 Electron • Neutralinojs • GCP • Docker • Terraform  
@@ -15,10 +15,8 @@ Electron • Neutralinojs • GCP • Docker • Terraform
 ## What I deliver
 - High-performance web and desktop applications  
 - Production-ready browser extensions  
-- Automated cloud infrastructure  
-
-## Focus
-Scalable front-end architectures and product-driven development.
+- Automated cloud infrastructure
+- Scalable front-end architectures and product-driven development.
 
 # Projects
 ## Work projects
