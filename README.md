@@ -1,7 +1,7 @@
 # Marçal Simião
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr/)](https://www.linkedin.com/in/marssaljr/)
-[![Email Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:marssaljr@hotmail.com)](mailto:marssaljr@hotmail.com)
+[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:marssaljr@hotmail.com)](mailto:marssaljr@hotmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/marssaljr?label=follow&style=social)](https://github.com/marssaljr)
 
 Software Engineer specialized in Web Applications, Browser Extensions and Cloud Automation.
