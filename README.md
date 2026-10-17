@@ -1,33 +1,61 @@
 # Marçal Simião
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marssaljr/)](https://www.linkedin.com/in/marssaljr/)
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marssaljr@hotmail.com)](mailto:marssaljr@hotmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-075e54?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/m284nb)](https://wa.link/m284nb)
-[![GitHub Followers](https://img.shields.io/github/followers/marssaljr?label=follow&style=social)](https://github.com/marssaljr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/marssaljr)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:marssaljr@gmail.com)
 
-Software Engineer specialized in Web Applications, Browser Extensions and Cloud Automation.
+Software Engineer focused on building data-driven web applications, interactive visualizations, geospatial solutions, and real-time systems.
 
-🇧🇷 Brazil
+Based in Brazil · Open to Remote Opportunities
 
-React • Javascript • TypeScript • Node • Python  
-Electron • Neutralinojs • GCP • Docker • Terraform  
+**Core Technologies**
 
-## What I deliver
-- High-performance web and desktop applications  
-- Production-ready browser extensions  
-- Automated cloud infrastructure
-- Scalable front-end architectures and product-driven development.
+React · Next.js · TypeScript · JavaScript · Node.js · NestJS · Python · Django · Google Cloud Platform
 
-# Projects
-## Work projects
-- Go Data → https://4smartcloud.com/solucoes/#godata 
-- Painel.ONE → https://cloudmatize.com/servicos/painel-one/ 
-- IDP.fit → https://cloudmatize.com/servicos/idp-fit/ 
-- Workspace Accounts → https://cloudmatize.com/servicos/workspace-accounts/ 
-- HUB 360 → https://cloudmatize.com/servicos/hub-360/ 
+**Areas of Experience**
+- Frontend and full-stack web application development
+- Interactive dashboards and data visualization
+- Geospatial applications and mapping with Leaflet
+- Backend APIs and cloud-based data pipelines
+- Real-time communication and browser extensions
+- AI integrations with Google Cloud services
+
+## Professional Projects
+
+Selected projects and products I have contributed to professionally:
+
+- **Go Data** — Sustainability data visualization platform  
+  https://4smartcloud.com/solucoes/#godata
+
+- **Painel.ONE** — Cloudmatize product  
+  https://cloudmatize.com/servicos/painel-one/
+
+- **IDP.fit** — Identity and access management  
+  https://cloudmatize.com/servicos/idp-fit/
+
+- **Workspace Accounts** — Institutional account management  
+  https://cloudmatize.com/servicos/workspace-accounts/
+
 ## Personal Projects
-- SignalNext → https://signalnext.vercel.app  
-- Whatsapp Web Fix → https://chromewebstore.google.com/detail/whatsapp-fix-extension/lenfgambahdhdgcjfdfhkngdhjlbodfg  
-- MatchTrader Risk Guard → https://chromewebstore.google.com/detail/matchtrader-risk-guard/kkkgkcmbfpgpgndgoaacgjnnjnbgbdda  
 
-and others bellow
+- **GeoCrime** — Interactive crime map using public UK police data, with Leaflet and Next.js  
+  https://geocrime.vercel.app
+
+- **SignalNext** — Financial market dashboard with technical indicators and market data visualization  
+  https://signalnext.vercel.app
+
+- **MatchTrader Risk Guard** — Chrome extension for trading risk management  
+  https://chromewebstore.google.com/detail/matchtrader-risk-guard/kkkgkcmbfpgpgndgoaacgjnnjnbgbdda
+
+- **WhatsApp Web Fix** — Chrome extension  
+  https://chromewebstore.google.com/detail/whatsapp-fix-extension/lenfgambahdhdgcjfdfhkngdhjlbodfg
+
+More projects are available in my repositories.
+
+## Technologies
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, NestJS, Python, Django, FastAPI, Flask  
+**Data & Visualization:** BigQuery, Recharts, Looker Studio, Leaflet  
+**Cloud & Infrastructure:** GCP, Terraform, Docker, CI/CD  
+**Real-Time Systems:** Socket.IO, WebSockets  
+**Browser Extensions:** Chrome Extensions API, Manifest V3
